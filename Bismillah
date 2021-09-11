@@ -1,0 +1,16 @@
+package bismillah;
+
+
+public class Bismillah {
+
+    /**
+     Bismillah deyu başlayalım..
+     */
+    public static void main(String[] args) {
+
+        System.out.println(" Bismillahirrahmanirrahim ");
+
+    }
+
+ 
+}
