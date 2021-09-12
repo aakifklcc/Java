@@ -1,0 +1,2 @@
+Bu satir dosyaya yazilacak
+altina da bu satir yazilacak.
